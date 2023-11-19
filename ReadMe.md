@@ -11,7 +11,7 @@ TestTaskHoff
 - **Transaction Microservice** - 
 - **API Gateway** - 
 
-![Application Architecture](https://8dmbiq.dm.files.1drv.com/y4mKz6TDtiwhrfo2mdUgvzle36Bnj7PMCvY6fP6kixwU3c3_CMb_rnnYOxg9WKn8LMmc5F__p2w3NWJc0o1vmCFmhHd5hRbr0S4MnMFnx09qvdSHE_E_40H0pQOxE0om2T2czVDOAInkTXn4xgdx_FmRgo8OaBh2XYqFHTf2zmYmF71tqRqlLzlsYBo1x1_CvdCt8U6AbjMhYznbgeBkGUKPQ?width=625&height=243&cropmode=none)
+![Application Architecture](https://clip2net.com/clip/m0/4dfbe-clip-38kb.png?nocache=1)
 
 
 ## Technologies
@@ -35,10 +35,13 @@ Password: test
     ValutaCode: "R01010"
 }
 
-
+- **Аутентификация**
 ![Аутентификация](https://clip2net.com/clip/m0/2c531-clip-56kb.png?nocache=1)
+- **ошибка на некорректный код**
 ![ошибка на некорректный код](https://clip2net.com/clip/m0/a91df-clip-38kb.png?nocache=1)
+- **ошибка на неверные координаты**
 ![ошибка на неверные координаты](https://clip2net.com/clip/m0/f762a-clip-36kb.png?nocache=1)
+- **логирование ошибок**
 ![логирование ошибок](https://clip2net.com/clip/m0/78e7d-clip-245kb.png?nocache=1)
 
 - **Что следует доделать**
