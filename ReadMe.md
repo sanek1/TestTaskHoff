@@ -21,7 +21,6 @@ TestTaskHoff
 
 ## WebApi Endpoints
 
-### End-points configured and accessible through API Gateway
 
 1. Route: **"/user/authenticate"** [HttpPost] - 
 UserName: test  
@@ -37,10 +36,10 @@ Password: test
 }
 
 
-![Аутентификация](https://clip2net.com/s/4jMPSRW)
-![ошибка на некорректный код](https://clip2net.com/s/4jMPZ90)
-![ошибка на неверные координаты](https://clip2net.com/s/4jMQ1tm)
-![логирование ошибок](https://clip2net.com/s/4jMQ5C5)
+![Аутентификация](https://clip2net.com/clip/m0/2c531-clip-56kb.png?nocache=1)
+![ошибка на некорректный код](https://clip2net.com/clip/m0/a91df-clip-38kb.png?nocache=1)
+![ошибка на неверные координаты](https://clip2net.com/clip/m0/f762a-clip-36kb.png?nocache=1)
+![логирование ошибок](https://clip2net.com/clip/m0/78e7d-clip-245kb.png?nocache=1)
 
 - **Что следует доделать**
     - Доделать логер
@@ -57,4 +56,3 @@ Password: test
 | -------- | -------- |
 |   test   | test     |
 
-## Console App - Gateway Client
